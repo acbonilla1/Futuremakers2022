@@ -14,3 +14,5 @@ Day 5: Today I learned about many new and exciting parts of machine learning. I 
 Day 6: Today I solidified my understanding of neural networks. I feel confident in my ability to teach others of how a basic neural network works, and how one can be used for significant purposes. I am excited to continue learning both low-level and high-level parts of deep learning.
 
 Day 7: Today I learned about Convolutional Neural Networks. They have been developed specifically for analyzing/classifying images, and I am excited to work with them in the future. I can already see many ways for this to help me in future projects, and I am hopeful to continue building my knowledge within deep learning and understand more intriguing/challenging topics that I might not have encountered in my life otherwise.
+
+Day 8: Today I learned more about the different biases that can exist in an algorithm, and how to fight/limit them. It was interesting to realize how technology can still have human error, as well as connect to many societal issues that we face.
