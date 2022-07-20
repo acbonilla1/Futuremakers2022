@@ -16,3 +16,7 @@ Day 6: Today I solidified my understanding of neural networks. I feel confident 
 Day 7: Today I learned about Convolutional Neural Networks. They have been developed specifically for analyzing/classifying images, and I am excited to work with them in the future. I can already see many ways for this to help me in future projects, and I am hopeful to continue building my knowledge within deep learning and understand more intriguing/challenging topics that I might not have encountered in my life otherwise.
 
 Day 8: Today I learned more about the different biases that can exist in an algorithm, and how to fight/limit them. It was interesting to realize how technology can still have human error, as well as connect to many societal issues that we face.
+
+Day 9: Today I learned more about Convolutional Neural Networks and practiced making them. It is interesting to manually change values/layers in order to get the best possible accuracies in the testing stage.
+
+Day 10: I learned about the many regression losses and classification losses that serve as loss functions. I am hopeful to practice using these in the future, as it is a lot to just memorize which ones are used for which situations.
