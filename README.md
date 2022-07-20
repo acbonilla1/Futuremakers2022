@@ -20,3 +20,5 @@ Day 8: Today I learned more about the different biases that can exist in an algo
 Day 9: Today I learned more about Convolutional Neural Networks and practiced making them. It is interesting to manually change values/layers in order to get the best possible accuracies in the testing stage.
 
 Day 10: I learned about the many regression losses and classification losses that serve as loss functions. I am hopeful to practice using these in the future, as it is a lot to just memorize which ones are used for which situations.
+
+Day 11: I learned how different activation functions are programmed, as well as their pros/cons. It's suprising how much thought can go into each and every layer inside of a neural network. There is a large amount of math constantly being utilized in this field of study, too.
