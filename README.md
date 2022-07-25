@@ -26,3 +26,5 @@ Day 11: I learned how different activation functions are programmed, as well as 
 Day 12: Today, I have learned many ways that biases can affect our lives. Not only from societal bias, but many other forms of it that I did not consider earlier. I believe that working to fight my own biases can help me not only create more inclusive products, but also develop new parts of a product that I might never have before. For instance, in creating a video game, I can sometimes limit myself to certain basic ideas of what I want it to look like. If I wanted to make an adventure game, I would include fighting and a story, but not all adventures games need to have either. I feel that it is this new thinking that will allow me to create more creative, innovative, and exciting things.
 
 Day 13: Today I solidified my skills/knowledge pertaining to classifying images using machine learning. I feel more confident in my syntax and ability relating to basic neural networks.
+
+Day 14: Today I learned more about underfitting/overfitting. I am more capable in identifying when my model is either underfitting or overfitting, as well as finding ways to mitigate this behavior.
