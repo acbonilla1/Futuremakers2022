@@ -28,3 +28,5 @@ Day 12: Today, I have learned many ways that biases can affect our lives. Not on
 Day 13: Today I solidified my skills/knowledge pertaining to classifying images using machine learning. I feel more confident in my syntax and ability relating to basic neural networks.
 
 Day 14: Today I learned more about underfitting/overfitting. I am more capable in identifying when my model is either underfitting or overfitting, as well as finding ways to mitigate this behavior.
+
+Day 15: Today I learned about autoencoders. It was interesting to realize that there images can be encoded (compressed) into compressed representations, and then later decoded (expanded) back into their previous forms. The terminology still confuses me a bit, and so I plan to continue studying this topic more so that I can feel confident when talking about it!
