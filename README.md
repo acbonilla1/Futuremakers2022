@@ -30,3 +30,9 @@ Day 13: Today I solidified my skills/knowledge pertaining to classifying images 
 Day 14: Today I learned more about underfitting/overfitting. I am more capable in identifying when my model is either underfitting or overfitting, as well as finding ways to mitigate this behavior.
 
 Day 15: Today I learned about autoencoders. It was interesting to realize that there images can be encoded (compressed) into compressed representations, and then later decoded (expanded) back into their previous forms. The terminology still confuses me a bit, and so I plan to continue studying this topic more so that I can feel confident when talking about it!
+
+Day 16: Today I learned about affective computing. It is definetely a field of study that I want to explore more in the future. It is difficult for even me to recognize when an audio clip is either panicked or happy (sometimes they can be both, in a way), so it is intriguing to think about how an algorithm can be made to distinguish between the two.
+
+Day 17: Today I learned more about how Natural Language Processing works. I initially struggled to understand how tokenization and bag of words work, but eventually, I got the hang of it all. I hope to use NLP in the future in order to make an impressive form of a chatbot.
+
+Day 18: Today I learned about Computer Vision. It connects to previous topics regarding image classification, but there were still many topics that I had not known about prior to today's notebook. For instance, style transfer. It's surprising to find out how such a complicated task can be moderately produced in a simple model. I am happy/proud to know that I can create many things that (even weeks ago) I would have thought to be far out of my abilities.
