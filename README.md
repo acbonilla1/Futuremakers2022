@@ -1,6 +1,6 @@
 # Futuremakers2022
 
-Read below to understand what I learned each day of my three weeks of learning during the MIT Artificial Intelligance Createathon summer program! After this period of time, my team and I spent a week and a half to make a project surrounding a community issue using the skills we had learned.
+Read below to understand what I learned each day of my three weeks of learning during the MIT Artificial Intelligance Createathon summer program! The work I completed every day is attached in the stream above. After this period of time, my team and I spent a week and a half to make a project surrounding a community issue using the skills we had learned.
 
 Day 1: It was very exciting to meet my team and community for this program! I am hopeful to continue learning about the many sectors of CS/Stem through Python and Machine Learning. It will take time to get used to working with Google Colab, but I have already learned of many new and important skills in this industry (NumPy, pandas, etc).
 
